@@ -1,1 +1,2 @@
 # silver-barnacle
+This project involves a comprehensive data analysis for the city of Netanya, covering various sectors such as health, transportation, elections, education, and economy. Utilizing advanced data analysis tools, I extracted meaningful insights and trends from the data, which were then visualized through a series of graphs. The project aimed to provide a clear understanding of the developments in these sectors over time, supporting data-driven decision-making for urban planning and management.
